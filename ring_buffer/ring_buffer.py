@@ -36,6 +36,8 @@ class RingBuffer:
 
 # ----------------Stretch Goal-------------------
 
+# array is easier to implement in that you don't need to make classes for ring buffer/linked list, but was a bit harder to get storage size to work
+
 
 class ArrayRingBuffer:
     def __init__(self, capacity):

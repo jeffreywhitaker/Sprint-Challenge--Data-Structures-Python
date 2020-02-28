@@ -98,7 +98,7 @@ print(f"runtime: {end_time - start_time} seconds")
 # What's the best time you can accomplish with no restrictions on techniques or data
 # structures?
 
-# trying with binary search tree
+# trying with binary search function
 # seems a bit faster
 
 
